@@ -4,11 +4,13 @@ Projeto desenvolvido para a Challenge Sprint 2 da turma 1CCPQ.
 
 ## Integrantes
 
-- João Vitor Jun Nishiye De Sousa — RM572079
-- Integrante 2 — RM
-- Integrante 3 — RM
-- Integrante 4 — RM
-- Integrante 5 — RM
+| Nome             |     RM |
+| ---------------- | -----: |
+| Davi             | 569487 |
+| Gabriel          | 568910 |
+| Aragão           | 570529 |
+| André            | 571691 |
+| Jun              | 572079 |
 
 ## Objetivo
 
