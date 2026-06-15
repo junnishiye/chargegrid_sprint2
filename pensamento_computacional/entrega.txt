@@ -1,0 +1,9 @@
+André Felix RM 571691
+Davi Pacheco RM Davi 569487
+Gabriel Silveira RM 568910
+Henrique Aragão RM 570529
+João Vitor Jun RM 572079
+
+Link GitHub: https://github.com/junnishiye/chargegrid_sprint2/tree/main/pensamento_computacional
+Link Vídeo: https://youtu.be/vl2GnMUW5DI
+Link Trello (kanban): https://trello.com/b/GMPgQ5CY/chargegrid-intelligence-sprint-2
